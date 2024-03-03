@@ -1,0 +1,2 @@
+cd /opt/databases/dbNSFPv2.4/download/
+java search_dbNSFP24 -i "/media/LUN4/prajish/exome/processed_data/dbnsfp/gatk_mutect_ori/Input.txt" -o "/media/LUN4/prajish/exome/processed_data/dbnsfp/gatk_mutect_ori/Output.txt"
